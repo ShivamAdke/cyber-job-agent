@@ -1,0 +1,19 @@
+# API Keys — kabhi bhi commit mat karo!
+.env
+*.env
+
+# Generated output files
+cover_letter_*.txt
+recruiter_email_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
