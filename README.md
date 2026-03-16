@@ -125,4 +125,4 @@ MIT License — free to use and modify.
 
 ---
 
-*Built as part of PhD research in AI-powered security analytics at TTU*
+
